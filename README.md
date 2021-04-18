@@ -1,1 +1,0 @@
-# Sample-Alert-Payload-Template-for-Microsoft-Teams
